@@ -437,3 +437,24 @@ footer p{
   padding-left: 1000px;
   font-size:13px;
 }
+@media(max-width:1000px){
+  .project{
+    width:50%;
+    
+  }
+  .content{
+    width:50%;
+  }
+  .event{
+    width:50%;
+  }
+}
+@media(max-width:670px){
+  .project{
+    width:100%{
+  }
+  .content{
+    width:100%;
+  }
+  .
+}
