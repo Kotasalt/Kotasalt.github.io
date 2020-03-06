@@ -1,5 +1,4 @@
 *{
- width:100%;
 }
 header{
  height:80px;
@@ -9,6 +8,7 @@ header{
   width:100%;
 
 }
+
 .header-logo{
 height:50px;
 
@@ -440,7 +440,7 @@ footer p{
 @media(max-width:1000px){
   .project{
     width:50%;
-    
+
   }
   .content{
     width:50%;
